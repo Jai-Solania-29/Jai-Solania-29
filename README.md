@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]()**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Jaideep2912?tab=repositories)**
 
 -  ✉ You can reach me at **jaideep2912@gmail.com**
 
