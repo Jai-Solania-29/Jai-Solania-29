@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/Jaideep2912?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://jaideep29.netlify.app/)**
 
 -  ✉ You can reach me at **jaideep2912@gmail.com**
 
