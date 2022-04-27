@@ -37,16 +37,16 @@
 <br/>
 
 <p align="center">
-    <a href="https://github.com/Jaideep2912/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaideep Solania's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jaideep2912&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/Jai-Solania-29/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jaideep Solania's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Jai-Solania-29&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Jaideep2912/github-readme-stats"><img alt="Jaideep Solania's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jaideep2912&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Jaideep2912/github-readme-stats"><img alt="Jaideep Solania's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jaideep2912&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jaideep2912/github-readme-stats"><img alt="Jaideep Solania's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Solania-29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -54,7 +54,7 @@
 <br/>
 <br/>
 
-<a href="https://github.com/Jaideep2912/github-readme-activity-graph"><img alt="Jaideep Solania'a Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jaideep2912&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Jai-Solania-29/github-readme-activity-graph"><img alt="Jaideep Solania'a Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jai-Solania-29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -70,6 +70,6 @@
 
 ## ❤ Views and Followers :
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Jaideep2912">
+    <img src="https://komarev.com/ghpvc/?username=Jai-Solania-29">
 </a>
-<a href="https://github.com/Jaideep2912?tab=followers"><img src="https://img.shields.io/github/followers/Jaideep2912?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Jai-Solania-29?tab=followers"><img src="https://img.shields.io/github/followers/Jaideep2912?label=Followers&style=social" alt="GitHub Badge"></a>
