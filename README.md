@@ -72,4 +72,4 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Jai-Solania-29">
 </a>
-<a href="https://github.com/Jai-Solania-29?tab=followers"><img src="https://img.shields.io/github/followers/Jaideep2912?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/Jai-Solania-29?tab=followers"><img src="https://img.shields.io/github/followers/Jai-Solania-29?label=Followers&style=social" alt="GitHub Badge"></a>
