@@ -1,4 +1,5 @@
-![Jai LinkedIn Banner](https://user-images.githubusercontent.com/90816300/169823266-59470a9e-b974-42db-8571-618009cad586.png)
+![Jai LinkedIn Banner 1](https://user-images.githubusercontent.com/90816300/169828705-409075d3-a622-4315-93a9-44f62f23959e.png)
+
 
 ## 👨🏻‍💻 About Me
 
