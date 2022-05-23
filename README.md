@@ -8,7 +8,7 @@
 
 - 🎓 I’m currently studying Computer Science.
 
-- 👨‍💻 I’m currently learning more about **Web Development.**
+- 👨‍💻 I’m currently learning **DevOps.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
