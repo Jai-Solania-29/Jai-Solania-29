@@ -1,4 +1,4 @@
-![Screenshot (13)]("C:\Images\Jai LinkedIn Banner.png")
+
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jaideep </h1>
 <h3 align="center">I'm a passionate Web Developer from India.</h3>
