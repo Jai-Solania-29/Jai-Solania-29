@@ -1,8 +1,4 @@
-
-
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jaideep </h1>
-<h3 align="center">I'm a passionate Web Developer from India.</h3>
-
+![Jai LinkedIn Banner](https://user-images.githubusercontent.com/90816300/169823266-59470a9e-b974-42db-8571-618009cad586.png)
 
 ## 👨🏻‍💻 About Me
 
