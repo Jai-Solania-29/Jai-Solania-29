@@ -26,7 +26,8 @@
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a>  
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
-    <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/material-outlined/48/000000/github.png"/> </a>  
+    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> </a>  
+    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/>
     <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> </a> 
 
 </p>
