@@ -56,13 +56,13 @@
   
 
 
-<br/>
+<!-- <br/>
 <br/>
 
 <a href="https://github.com/Jai-Solania-29/github-readme-activity-graph"><img alt="Jaideep Solania's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jai-Solania-29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 <!--   <br/>
     <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
