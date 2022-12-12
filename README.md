@@ -44,8 +44,23 @@
 </p>
 
 ## 📊 My Github Stats
-
+        
+        <br/>
+    <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Solania-29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
+  
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/Jai-Solania-29/github-readme-activity-graph"><img alt="Jaideep Solania's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jai-Solania-29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
+<!--   <br/>
     <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -57,13 +72,13 @@
 <a href="https://github.com/Jai-Solania-29/github-readme-activity-graph"><img alt="Jaideep Solania's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jai-Solania-29&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
-<br/>
+<br/> -->
 
 ## 🤝 Connect with me :
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/jaideep-solania-a426691b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/jai_solania_29"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/jai_solania_29"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
 <a href = "https://www.instagram.com/jai_solania_29/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
