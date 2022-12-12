@@ -45,10 +45,11 @@
 
 ## 📊 My Github Stats
         
-        <br/>
-    <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Solania-29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+<br/>
+<a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jai-Solania-29&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+        
+<a href="https://github.com/Jai-Solania-29/github-readme-stats"><img alt="Jaideep Solania's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jai-Solania-29&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<br/>
   
 
 
