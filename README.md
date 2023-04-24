@@ -23,11 +23,12 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <img src="https://img.icons8.com/color/48/null/material-ui.png"/>
+    <a href="https://mui.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/material-ui.png"/> </a>
     <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
     <a href="https://nodejs.org/en/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/>
         <a href="https://www.linux.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="45" height="45"/> </a>
+        <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/git.png"/> </a>
         <a href="https://aws.amazon.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="45" height="45"/> </a>
         <a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/48/null/docker.png"/> </a>
         <a href="https://kubernetes.io/" target="_blank"> <img src="https://img.icons8.com/color/48/null/kubernetes.png"/> </a>
