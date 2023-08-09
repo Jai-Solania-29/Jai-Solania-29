@@ -7,7 +7,7 @@
 
 - 👨‍💻 I’m currently learning **DevOps.**
 
-- 👯 I’m looking for entry level opportunities as a **DevOps Engineer**
+- 👯 I’m looking for entry-level opportunities as a **DevOps Engineer**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jaideep29.netlify.app/)**
 
