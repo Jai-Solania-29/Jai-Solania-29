@@ -1,13 +1,14 @@
-![Jai LinkedIn Banner 1](https://user-images.githubusercontent.com/90816300/169828705-409075d3-a622-4315-93a9-44f62f23959e.png)
+![Jaideep Cover](https://github.com/Jai-Solania-29/Jai-Solania-29/assets/90816300/2dd15180-9e6e-4d50-a24b-fde36277275c)
+
 
 
 ## 👨🏻‍💻 About Me
 
-- 🎓 I’m currently studying Computer Science.
+- 👨‍💻 I’m currently learning **DevOps**.
 
-- 👨‍💻 I’m currently learning **DevOps.**
-
-- 👯 I’m looking for entry-level opportunities as a **DevOps Engineer**
+- 🔎 I’m looking for entry-level opportunities as a **DevOps Engineer**
+  
+- 👨‍💻 You can read my blogs here **[Blogs](https://hashnode.com/@jaisolania29)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jaideep29.netlify.app/)**
 
@@ -86,6 +87,7 @@
 
 <a href = "https://www.linkedin.com/in/jaideep-solania-a426691b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/jai_solania_29"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
+<a href = "https://hashnode.com/@jaisolania29"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
 <a href = "https://www.instagram.com/jai_solania_29/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
