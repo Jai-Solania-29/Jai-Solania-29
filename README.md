@@ -8,7 +8,7 @@
 
 - 🔎 I’m looking for entry-level opportunities as a **DevOps Engineer**
   
-- 👨‍💻 You can read my blogs here **[Blogs](https://hashnode.com/@jaisolania29)**
+- 👨‍💻 You can read my blogs here **[Blogs](https://hashnode.com/@Jai-Solania-29)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://jaideep29.netlify.app/)**
 
@@ -87,7 +87,7 @@
 
 <a href = "https://www.linkedin.com/in/jaideep-solania-a426691b6/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/jai_solania_29"><img src="https://img.icons8.com/color/48/null/twitter--v1.png"/></a>
-<a href = "https://hashnode.com/@jaisolania29"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
+<a href = "https://hashnode.com/@Jai-Solania-29"><img width="48" height="48" src="https://img.icons8.com/color/48/hashnode.png" alt="hashnode"/></a>
 <a href = "https://www.instagram.com/jai_solania_29/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
 </p>
